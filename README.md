@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha-ranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="arosha-ranasinghe" /> </p>
 
-- 🔭 I’m currently working on **BrightID**
+- 🔭 I’m currently working on **final year project**
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
