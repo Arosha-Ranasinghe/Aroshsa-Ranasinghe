@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm arosha ranasinghe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Undergraduate in Bsc(Hons) Computer Security in Plymouth University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha-ranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="arosha-ranasinghe" /> </p>
 
